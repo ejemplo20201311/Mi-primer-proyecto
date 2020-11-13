@@ -1,2 +1,2 @@
 # Mi-primer-proyecto
-Este es un ejemplo
+Este es un repositorio donde se guardan las actividades futuras. Espero jejeje
